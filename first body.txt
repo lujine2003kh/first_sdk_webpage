@@ -1,0 +1,34 @@
+first
+welcome
+<h1>hi im h1</h1>
+<h2>hi im h2</h2>
+<h3 id="hhh">hi im h3</h3>
+<h3>hi im h3</h3>
+<h4 class="new">hi im h4</h4>
+<h5 >hi im h5</h5>
+<h6 class="new">hi im h6</h6>
+<p>this is a p tag</p>
+<button>press here</button>
+<br>
+<img src="cat1.jpg" alt="test" width="300px">
+<br>
+<b>hello</b>
+<br>
+<strong>hello</strong>
+<br>
+<i>hello</i>
+<br>
+<em>hello</em>
+<br>
+<mark>hello</mark>
+<br>
+<small>hello</small>
+<br>
+<del>hello</del>
+<br>
+<ins>hello</ins>
+<p>hi<sub>hello</sub></p>
+<p>hi<sup>hello</sup></p>
+<a href="news.html">go to news</a>
+<br>
+<a href="https://www.google.com/" target="_blank">google</a>
